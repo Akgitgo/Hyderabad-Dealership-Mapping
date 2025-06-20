@@ -147,13 +147,7 @@ function geocodeAddresses() {
 
 ---
 
-## 📦 Download
-
-- [📥 Download This Repository as ZIP](https://www.google.com/maps/d/edit?mid=1Vz0n_9QLu3TramjctQI6MB4CdhzbsJI&usp=sharing)
-
----
-
 ## 🧑‍💻 Author
 
-**Atharv Kulkarni**  
+**Arya Kulkarni**  
 Hyderabad Showroom Mapping Automation
